@@ -7,7 +7,7 @@ function Footer() {
         <div className='footer'>
             <div className="footer-left">
                 <div className="footer-logo">
-                    <Link className='footer-logo-link'><img className='social-logo' src="assets/laBelle-LOGO.png" alt="" /></Link>
+                    <Link className='footer-logo-link'><img className='social-logo' src="assets/LaBelle-LOGO.png" alt="" /></Link>
                 </div>
                 <div className="description">
                 Labelle Events and a ushering Agency is a company dedicated to finding cutting-edge solutions and providing great services.

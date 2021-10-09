@@ -42,7 +42,7 @@ function Navbar() {
                 </div>
                 <div className="nav-left">
                     <div className="nav-logo">
-                       <img className='photo' src="assets/laBelle-LOGO2.png" alt="" />
+                       <img className='photo' src="assets/LaBelle-LOGO2.png" alt="" />
                     </div>
                 </div>
                 <div className="nav-center">

@@ -6,7 +6,7 @@ export const data =[
         name:'Jason York',
         title:'CEO of NYT Ltd',
         desc:'lorem ipseun m ipsum dolor sit amet consectetur adipisicing elit. Sed, architecto delenistrum voluptatum.',
-        img: './images/pic2.jpg'
+        img: 'assets/pic2.jpg'
     },
     {
         id:'2',
@@ -14,7 +14,7 @@ export const data =[
         name:'Dan Lok',
         title:'CEO of Yokd INC',
         desc:'lorem ipseun m ipsum dolor sit amet consectetur adipisicing elit. Sed, architecto delenistrum voluptatum.',
-        img: './images/pic2.jpg'
+        img: 'assets/pic2.jpg'
     },
     {
         id:'3',
@@ -22,6 +22,6 @@ export const data =[
         name:'Pearl Agbove',
         title:'CEO labbelle',
         desc:'lorem ipseu Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed, architecto delenistrum voluptatum. ',
-        img: './images/pic2.jpg'
+        img: 'assets/pic2.jpg'
     },
 ]
